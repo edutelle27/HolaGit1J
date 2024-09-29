@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1e09745b-813d-49e3-afd9-5446a850754e" name="Changes" comment="Realizo un primer cambio" />
+    <list default="true" id="1e09745b-813d-49e3-afd9-5446a850754e" name="Changes" comment="Realizo un tercer cambio">
+      <change beforePath="$PROJECT_DIR$/src/HolaGit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HolaGit.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,6 +37,7 @@
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "vcs.Git",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -46,7 +49,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1727593433480</updated>
-      <workItem from="1727593434478" duration="3791000" />
+      <workItem from="1727593434478" duration="5564000" />
     </task>
     <task id="LOCAL-00001" summary="Realizo un primer cambio">
       <option name="closed" value="true" />
@@ -56,7 +59,23 @@
       <option name="project" value="LOCAL" />
       <updated>1727599098465</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Realizo un segundo cambio">
+      <option name="closed" value="true" />
+      <created>1727599578977</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1727599578977</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Realizo un tercer cambio">
+      <option name="closed" value="true" />
+      <created>1727599715767</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1727599715767</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -75,6 +94,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Realizo un primer cambio" />
-    <option name="LAST_COMMIT_MESSAGE" value="Realizo un primer cambio" />
+    <MESSAGE value="Realizo un segundo cambio" />
+    <MESSAGE value="Realizo un tercer cambio" />
+    <option name="LAST_COMMIT_MESSAGE" value="Realizo un tercer cambio" />
   </component>
 </project>
