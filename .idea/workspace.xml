@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1e09745b-813d-49e3-afd9-5446a850754e" name="Changes" comment="Realizo un tercer cambio">
+    <list default="true" id="1e09745b-813d-49e3-afd9-5446a850754e" name="Changes" comment="Muestro valores de i,j,z">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/HolaGit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HolaGit.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -21,6 +22,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="SWAP_SIDES_IN_COMPARE_BRANCHES" value="true" />
   </component>
   <component name="ProjectId" id="2mjcTDcarEh2jFUPZnduhoegPt0" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -37,7 +39,7 @@
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
-    "settings.editor.selected.configurable": "vcs.Git",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -49,7 +51,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1727593433480</updated>
-      <workItem from="1727593434478" duration="5564000" />
+      <workItem from="1727593434478" duration="6727000" />
+      <workItem from="1727629998528" duration="1544000" />
     </task>
     <task id="LOCAL-00001" summary="Realizo un primer cambio">
       <option name="closed" value="true" />
@@ -75,7 +78,39 @@
       <option name="project" value="LOCAL" />
       <updated>1727599715767</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Realizo un tercer cambio">
+      <option name="closed" value="true" />
+      <created>1727607214069</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1727607214069</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Realizo un tercer cambio">
+      <option name="closed" value="true" />
+      <created>1727607283231</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1727607283231</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Muestro valores de i y de j">
+      <option name="closed" value="true" />
+      <created>1727607413219</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1727607413219</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Muestro valores de i,j,z">
+      <option name="closed" value="true" />
+      <created>1727607551776</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1727607551776</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -96,6 +131,8 @@
     <MESSAGE value="Realizo un primer cambio" />
     <MESSAGE value="Realizo un segundo cambio" />
     <MESSAGE value="Realizo un tercer cambio" />
-    <option name="LAST_COMMIT_MESSAGE" value="Realizo un tercer cambio" />
+    <MESSAGE value="Muestro valores de i y de j" />
+    <MESSAGE value="Muestro valores de i,j,z" />
+    <option name="LAST_COMMIT_MESSAGE" value="Muestro valores de i,j,z" />
   </component>
 </project>
