@@ -4,5 +4,6 @@ public class HolaGit {
         System.out.println(" Realizo un cambio");
         System.out.println(" Realizo un segundo cambio");
         System.out.println(" Realizo un tercer cambio");
+        int i=0;
     }
 }
